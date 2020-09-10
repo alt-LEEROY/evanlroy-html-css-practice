@@ -1,6 +1,5 @@
-# Evan L'Roy HTML CSS Practice
+# HTML CSS Practice
 
+Evan L'Roy 
 
-## HTML Practice Assignment
-
-### Due Sep 12
+Due Sep 12
